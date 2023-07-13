@@ -1,6 +1,6 @@
 # NoteFlow
 
-## Technical Stack:
+## Technical Stack
 
 ### Front-end:
 - HTML
@@ -23,7 +23,9 @@
 
 ### Authentication and Authorization:
 - JWT (JSON Web Tokens) for user authentication and authorization
-- Passport.js (authentication middleware for Node.js)
+- bcrypt (password hashing library) to securely store and verify user passwords
+- Cloud storage services like Amazon S3 or Google Cloud Storage for storing the actual PDF files
+
 
 ### Deployment and Infrastructure:
 - AWS (Amazon Web Services) or other cloud service providers for hosting and scalability
