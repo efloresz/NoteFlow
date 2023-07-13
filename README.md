@@ -1,4 +1,6 @@
-# NoteFlow
+# NoteFlow 
+<img src="https://github.com/efloresz/NoteFlow/assets/110843762/5791db8f-c560-40d9-81b5-be876de2d97b" alt="NoteFlow logo" width="200">
+
 
 ## Technical Stack
 
