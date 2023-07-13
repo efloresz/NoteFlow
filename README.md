@@ -1,6 +1,4 @@
 # NoteFlow
-<img src="https://github.com/efloresz/NoteFlow/assets/110843762/5791db8f-c560-40d9-81b5-be876de2d97b" alt="NoteFlow logo" width="200">
-
 
 ## Sample User Interfaces:
 <img width="1157" alt="Screenshot 2023-07-12 at 8 41 33 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/cc6eb945-8260-46c6-86aa-6e8008323a56">
