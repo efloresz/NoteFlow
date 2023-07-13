@@ -1,6 +1,6 @@
 # NoteFlow
 
-## Tech Stack:
+## Technical Stack:
 
 ### Front-end:
 - HTML
