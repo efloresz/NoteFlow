@@ -4,7 +4,7 @@
 <img width="1157" alt="Screenshot 2023-07-12 at 8 41 33 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/cc6eb945-8260-46c6-86aa-6e8008323a56">
 
 <img width="1163" alt="Screenshot 2023-07-12 at 8 41 45 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/bd464869-f675-4ce4-8d27-d2ff123b475d">
-<img width="876" alt="Screenshot 2023-07-14 at 12 45 37 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/b9cc2f50-c301-4fb7-852f-b98d184f79f9">
+<img width="1158" alt="Screenshot 2023-07-14 at 12 47 16 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/8f4e8774-02b5-4458-a700-c0f52d652f28">
 
 
 ## Technical Stack
