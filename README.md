@@ -10,6 +10,7 @@
 <img width="1163" alt="Screenshot 2023-07-12 at 8 41 45 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/bd464869-f675-4ce4-8d27-d2ff123b475d">
 # Local API Storage of chathpt responses 
 # https://kinopio.club/ storing the pdf
+# make the boxes notebook with the text as handwritting
 ## Technical Stack
 
 ### Front-end:
