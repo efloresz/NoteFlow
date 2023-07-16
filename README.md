@@ -4,7 +4,7 @@
 <img width="1163" alt="Screenshot 2023-07-12 at 8 41 45 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/59e35fda-4bb7-48b2-a97a-b2adf9a96604">
 
 ## Refined suggestions: 
-- Local API Storage of chathpt responses 
+- Local API Storage of chatgpt responses 
 - https://kinopio.club/ (storing the pdf and users data)
 - make the boxes notebook with the text as handwritting
 - use the schools colors to scope down the application
