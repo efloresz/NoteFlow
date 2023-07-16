@@ -7,6 +7,7 @@
 - Local API Storage of chathpt responses 
 - https://kinopio.club/ (storing the pdf and users data)
 - make the boxes notebook with the text as handwritting
+- use the schools colors to scope down the application
   
 ## Technical Stack
 ### Front-end:
