@@ -1,18 +1,14 @@
 # NoteFlow
 
-## Sample User Interfaces:
-<img width="1071" alt="Screenshot 2023-07-14 at 1 54 18 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/c96de92a-c05f-48e6-94d3-0b126910b736">
+## Sample User Interface:
+<img width="1163" alt="Screenshot 2023-07-12 at 8 41 45 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/59e35fda-4bb7-48b2-a97a-b2adf9a96604">
 
-<img width="1158" alt="Screenshot 2023-07-14 at 12 47 16 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/8f4e8774-02b5-4458-a700-c0f52d652f28">
-
-<img width="1157" alt="Screenshot 2023-07-12 at 8 41 33 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/cc6eb945-8260-46c6-86aa-6e8008323a56">
-
-<img width="1163" alt="Screenshot 2023-07-12 at 8 41 45 PM" src="https://github.com/efloresz/NoteFlow/assets/110843762/bd464869-f675-4ce4-8d27-d2ff123b475d">
-# Local API Storage of chathpt responses 
-# https://kinopio.club/ storing the pdf
-# make the boxes notebook with the text as handwritting
+## Refined suggestions: 
+- Local API Storage of chathpt responses 
+- https://kinopio.club/ (storing the pdf and users data)
+- make the boxes notebook with the text as handwritting
+  
 ## Technical Stack
-
 ### Front-end:
 - HTML
 - CSS
