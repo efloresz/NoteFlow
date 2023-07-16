@@ -7,7 +7,7 @@
 - Local API Storage of chatgpt responses 
 - https://kinopio.club/ (storing the pdf and users data)
 - make the boxes notebook with the text as handwritting
-- use the schools colors to scope down the application
+- use the school colors to scope down the application
   
 ## Updated UI:
 ![Screenshot 2023-07-16 at 4 27 31 PM](https://github.com/efloresz/NoteFlow/assets/110843762/aebc2431-4d7d-451f-9873-caf50f402fc9)
